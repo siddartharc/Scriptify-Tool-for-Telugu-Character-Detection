@@ -1,6 +1,4 @@
-Here's an improved version of the instructions you provided for your tool's README file:
-
----
+SCRIPTIFY
 
 # Handwritten Image to Text Converter Tool
 
