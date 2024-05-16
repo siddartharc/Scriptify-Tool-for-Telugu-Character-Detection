@@ -41,12 +41,19 @@ This tool facilitates the conversion of handwritten images to text files using v
 - Converted text files: `\Tool\data\image\output`
 
 ---
-![Screenshot 2024-05-16 132347](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/c2c7d801-c09b-44cf-a573-9256fbf07d03)
-![Screenshot 2024-05-16 132209](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/e9acc3e0-ff3d-49b2-b6fe-9ace92005f69)
-![Screenshot 2024-05-16 132123](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/691e56bf-b63b-4092-bff1-06e440c51963)
-![Screenshot 2024-05-16 132102](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/48ffa929-7690-4f91-a72c-31bb579d3435)
-![Screenshot 2024-05-16 132018](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/f8712a74-ab2b-463f-9e28-ab3cddb8cfc5)
-![Screenshot 2024-05-16 131952](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/29dc5e00-4973-4c4a-b3f7-851fb3c26d92)
-![Screenshot 2024-05-16 132406](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/73b56624-0df1-44eb-aaf9-89b3bb8c4d35)
+![0](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/227ad594-8ee4-423e-bd88-eccbbb63fa03)
+
+![1_0](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/282beac5-3aa9-4e31-bcc6-293cd317ffd5)
+
+![1_1](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/d3fcf778-972e-405a-a25c-ad9f2d03bc87)
+
+![1_2](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/5250a0a6-ff10-42ca-852d-fd958dc1ef6a)
+
+![2_0](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/67d00a3a-bbf9-413f-ad28-69c88c6f6567)
+
+![2_1](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/0025c313-fcb4-4f25-adfe-859c7921e48c)
+
+![2_2](https://github.com/siddartharc/Scriptify-Tool-for-Telugu-Character-Detection/assets/83510588/62edd463-3a1a-482b-bb9b-0031e619a7b4)
+
 
 
