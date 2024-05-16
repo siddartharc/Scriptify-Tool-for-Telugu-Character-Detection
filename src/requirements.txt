@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+optuna
+scikit-learn
+tensorflow
+tqdm
+ultralytics
+ipywidgets==8.1.2
